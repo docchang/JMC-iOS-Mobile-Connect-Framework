@@ -1,4 +1,4 @@
-JMC-Mobile-Connect-framework
+JIRA Mobile Connect iOS Framework
 ============================
 This project encapsulate the jiraconnect-ios into a framework and resource bundle. This should save you time because now you can...
 
@@ -14,7 +14,6 @@ Steps to get the framework and resource
 ---------------------------------------
 
 1. Clean and build "JMCFramework"
-
 ![](ReadmeImages/build.png)
 
 2. Right click on the libJMC.a and click "Show in Finder"
